@@ -1,6 +1,6 @@
 # Define a list of predefined questions and answers
-questions = ["What is your name?", "How are you?", "What is the meaning of life?"]
-answers = ["My name is AI Bot.", "I'm good, thank you!", "The meaning of life is 42."]
+questions = ["What is your name?", "How are you?", "What is the meaning of life?", "Where are you from?", "What is your favorite color?"]
+answers = ["My name is AI Bot.", "I'm good, thank you!", "The meaning of life is 42.", "I am an AI bot and do not have a physical location.", "I don't have a favorite color as I am an AI bot."]
 
 # Function to find an appropriate answer based on user input
 def get_answer(question):
